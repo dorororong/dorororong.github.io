@@ -1,23 +1,23 @@
 {
   "vaultName": "AIOnMath",
-  "lastExport": 1734264279764,
+  "lastExport": 1734264769405,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "1. 프로젝트/강화학습/보드게임 강화학습/알파제로 그레이트 킹덤 AI.md",
-    "1. 프로젝트/강화학습/보드게임 강화학습/알파제로 바둑 AI 만들기.md",
-    "1. 프로젝트/강화학습/보드게임 강화학습/Base Note.md",
-    "1. 프로젝트/강화학습/MakeCode Arcade강화학습/-Base note.md",
-    "1. 프로젝트/강화학습/MakeCode Arcade강화학습/1. Jumping Bird.md",
-    "1. 프로젝트/강화학습/MakeCode Arcade강화학습/수업 적용 방안.md",
-    "1. 프로젝트/강화학습/robotics 강화학습/-base note.md",
-    "1. 프로젝트/강화학습/robotics 강화학습/BricksMuJoCo.md",
-    "1. 프로젝트/강화학습/robotics 강화학습/bricksRL.md",
-    "1. 프로젝트/강화학습/robotics 강화학습/gymnasium robotics.md",
-    "1. 프로젝트/강화학습/robotics 강화학습/raspberry pi build hat.md",
-    "1. 프로젝트/강화학습/index.md",
+    "강화학습/보드게임 강화학습/알파제로 그레이트 킹덤 AI.md",
+    "강화학습/보드게임 강화학습/알파제로 바둑 AI 만들기.md",
+    "강화학습/보드게임 강화학습/Base Note.md",
+    "강화학습/MakeCode Arcade강화학습/-Base note.md",
+    "강화학습/MakeCode Arcade강화학습/1. Jumping Bird.md",
+    "강화학습/MakeCode Arcade강화학습/수업 적용 방안.md",
+    "강화학습/robotics 강화학습/-base note.md",
+    "강화학습/robotics 강화학습/BricksMuJoCo.md",
+    "강화학습/robotics 강화학습/bricksRL.md",
+    "강화학습/robotics 강화학습/gymnasium robotics.md",
+    "강화학습/robotics 강화학습/raspberry pi build hat.md",
+    "강화학습/index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -50,158 +50,158 @@
     "lib/media/874d8b8e340f75575caa.svg"
   ],
   "fileInfo": {
-    "1. 프로젝트/강화학습/보드게임 강화학습/알파제로 그레이트 킹덤 AI.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/보드게임 강화학습/알파제로 그레이트 킹덤 AI.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 313,
-      "exportedPath": "1. 프로젝트/강화학습/보드게임 강화학습/알파제로 그레이트 킹덤 AI.html",
+      "exportedPath": "강화학습/보드게임 강화학습/알파제로 그레이트 킹덤 AI.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/보드게임 강화학습/알파제로 바둑 AI 만들기.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/보드게임 강화학습/알파제로 바둑 AI 만들기.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 3684,
-      "exportedPath": "1. 프로젝트/강화학습/보드게임 강화학습/알파제로 바둑 AI 만들기.html",
+      "exportedPath": "강화학습/보드게임 강화학습/알파제로 바둑 AI 만들기.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/보드게임 강화학습/Base Note.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/보드게임 강화학습/Base Note.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 818,
-      "exportedPath": "1. 프로젝트/강화학습/보드게임 강화학습/Base Note.html",
+      "exportedPath": "강화학습/보드게임 강화학습/Base Note.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/MakeCode Arcade강화학습/-Base note.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/MakeCode Arcade강화학습/-Base note.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 23,
-      "exportedPath": "1. 프로젝트/강화학습/MakeCode Arcade강화학습/-Base note.html",
+      "exportedPath": "강화학습/MakeCode Arcade강화학습/-Base note.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/MakeCode Arcade강화학습/1. Jumping Bird.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/MakeCode Arcade강화학습/1. Jumping Bird.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 5539,
-      "exportedPath": "1. 프로젝트/강화학습/MakeCode Arcade강화학습/1. Jumping Bird.html",
+      "exportedPath": "강화학습/MakeCode Arcade강화학습/1. Jumping Bird.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/MakeCode Arcade강화학습/수업 적용 방안.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/MakeCode Arcade강화학습/수업 적용 방안.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 25,
-      "exportedPath": "1. 프로젝트/강화학습/MakeCode Arcade강화학습/수업 적용 방안.html",
+      "exportedPath": "강화학습/MakeCode Arcade강화학습/수업 적용 방안.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/robotics 강화학습/-base note.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/robotics 강화학습/-base note.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 672,
-      "exportedPath": "1. 프로젝트/강화학습/robotics 강화학습/-base note.html",
+      "exportedPath": "강화학습/robotics 강화학습/-base note.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/robotics 강화학습/BricksMuJoCo.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/robotics 강화학습/BricksMuJoCo.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 86,
-      "exportedPath": "1. 프로젝트/강화학습/robotics 강화학습/BricksMuJoCo.html",
+      "exportedPath": "강화학습/robotics 강화학습/BricksMuJoCo.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/robotics 강화학습/bricksRL.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/robotics 강화학습/bricksRL.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 930,
-      "exportedPath": "1. 프로젝트/강화학습/robotics 강화학습/bricksRL.html",
+      "exportedPath": "강화학습/robotics 강화학습/bricksRL.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/robotics 강화학습/gymnasium robotics.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/robotics 강화학습/gymnasium robotics.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 1153,
-      "exportedPath": "1. 프로젝트/강화학습/robotics 강화학습/gymnasium robotics.html",
+      "exportedPath": "강화학습/robotics 강화학습/gymnasium robotics.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/robotics 강화학습/raspberry pi build hat.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/robotics 강화학습/raspberry pi build hat.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 0,
-      "exportedPath": "1. 프로젝트/강화학습/robotics 강화학습/raspberry pi build hat.html",
+      "exportedPath": "강화학습/robotics 강화학습/raspberry pi build hat.html",
       "dependencies": []
     },
-    "1. 프로젝트/강화학습/index.md": {
-      "modifiedTime": 1734264279764,
+    "강화학습/index.md": {
+      "modifiedTime": 1734264769405,
       "sourceSize": 45,
-      "exportedPath": "1. 프로젝트/강화학습/index.html",
+      "exportedPath": "강화학습/index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734264279764,
+      "modifiedTime": 1734264769405,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
